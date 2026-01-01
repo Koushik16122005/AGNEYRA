@@ -1,5 +1,5 @@
 #Marks Average Analyzer
-marks = list(map(int, input("Enter the marks separated by spaces: ".split())))
+marks = list(map(int, input("Enter the marks separated by spaces: ").split()))
 
 def TotalMarks(marks):
   return sum(marks)
