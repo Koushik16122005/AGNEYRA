@@ -42,3 +42,4 @@ while True:
       
     case _:
       print("Invalid choice. Please select a valid option.")
+  time.sleep(2) #Waits 2 seconds before looping 
