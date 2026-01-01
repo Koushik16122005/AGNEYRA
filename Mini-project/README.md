@@ -40,5 +40,3 @@ The program runs continuously until the user chooses to exit.
 
 ---
 
-## 📂 Project Structure
-
